@@ -1,0 +1,8 @@
+motor.c:13:13:Set_duty	32	static
+motor.c:22:6:Init_tim_pwm	8	static
+motor.c:27:6:Stop_motor	8	static
+motor.c:32:6:Forward	16	static
+motor.c:37:6:Reverse	16	static
+motor.c:42:7:Read_enc	32	static
+motor.c:49:6:Controller	32	static
+motor.c:75:6:Init_parameter	16	static
